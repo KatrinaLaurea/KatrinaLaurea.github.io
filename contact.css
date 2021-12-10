@@ -1,0 +1,13 @@
+.section {
+  margin: 3em;
+}
+
+#googleMap {
+  height: 40vh;
+  width: 40vw;
+}
+
+.contact-form {
+  width: 70vw;
+  margin: 0 auto;
+}

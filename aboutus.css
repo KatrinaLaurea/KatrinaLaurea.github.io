@@ -1,0 +1,17 @@
+.image {
+  display: flex;
+  width: 40vw;
+  height: 40vh;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.info h1,
+.info p {
+  text-align: center;
+  width: 80vw;
+  margin: 0 auto;
+  margin-top: 3vh;
+}
